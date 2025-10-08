@@ -26,9 +26,6 @@ O projeto é composto por **três planilhas principais**:
 - **Consolidação de dados mensais** em um relatório anual
 
 
-
-
-
 ## 📈 Resultados Esperados
 
 - Planilhas organizadas e com **fórmulas automatizadas**.  
@@ -58,7 +55,7 @@ Projeto desenvolvido durante o curso:
 <p align="center">
   <img src="imagens/rpa-set2018.png" alt="RPA Set 2018" width="311"/>
   <img src="imagens/rpa-out2018.png" alt="RPA Out 2018" width="300"/>
-  <img src="imagens/rpa-ano2018.png" alt="RPA Ano 2018" width="300"/>
+  <img src="imagens/rpa-ano2018.png" alt="RPA Ano 2018" width="310"/>
 </p>
 
 
